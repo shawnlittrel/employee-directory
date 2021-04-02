@@ -1,0 +1,27 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "Generate an HTML page with employee information based on command line prompts",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnlittrel/employee-directory.git"
+  },
+  "author": "Shawn Littrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnlittrel/employee-directory/issues"
+  },
+  "homepage": "https://github.com/shawnlittrel/employee-directory#readme"
+}
