@@ -34,7 +34,7 @@ node app begins the chain of prompts.  Input data, then manipulate the output 'i
 
 ### Screenshots and Videos
 ---
-[Product Demonstration](https://drive.google.com/file/d/1j_WQBSez9n_h57TcDI6zKW-1ins47Iao/view?usp=sharing)
+[Product Demonstration Video](https://drive.google.com/file/d/1j_WQBSez9n_h57TcDI6zKW-1ins47Iao/view?usp=sharing)
 
 Sample Input
 ---
