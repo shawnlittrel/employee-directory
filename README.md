@@ -32,8 +32,9 @@ The only required module is Inquirer, along with node.js.  After cloning the rep
 ---
 node app begins the chain of prompts.  Input data, then manipulate the output 'index.html' as needed.
 
-### Screenshots
+### Screenshots and Videos
 ---
+[Product Demonstration](https://drive.google.com/file/d/1j_WQBSez9n_h57TcDI6zKW-1ins47Iao/view?usp=sharing)
 
 Sample Input
 ---
